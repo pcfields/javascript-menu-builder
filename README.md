@@ -8,7 +8,14 @@ ___
  npm install
 ```
 
+Once that is successful type grunt in the command line
+```js
+ grunt
+ 
+```
+
 This will run a webserver which would allow you to access the site at [http://localhost:9001](http://localhost:9001)
+
 ## Requirements
 Please find attached the file menu.json. Use it to complete the following points.
 * Create a blank web page and load this JSON with JavaScript
