@@ -18,7 +18,7 @@ This will run a webserver which would allow you to access the site at [http://lo
 
 ## Requirements
 Please find attached the file menu.json. Use it to complete the following points.
-* Create a blank web page and load this JSON with JavaScript
+*Create a blank web page and load this JSON with JavaScript
 * Use the loaded JSON to create a tree menu taking into consideration this JSON structure description: 
 * Id: id of the element
 * Leaf: If true, this is an end-node
