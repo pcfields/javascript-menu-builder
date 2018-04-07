@@ -42,8 +42,14 @@ Please find attached the file menu.json. Use it to complete the following points
 
 <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) -->
 
+### Menu Builder: default view
+
 ![Menu Builder: default view](img/menu-builder-1.png)
 
-![Menu Builder: one sub menu open](img/menu-builder-1.png)
+### Menu Builder: one sub menu open
 
-![Menu Builder: all sub menus open](img/menu-builder-1.png)
+![Menu Builder: one sub menu open](img/menu-builder-2.png)
+
+### Menu Builder: all sub menus open
+
+![Menu Builder: all sub menus open](img/menu-builder-3.png)
