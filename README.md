@@ -38,12 +38,12 @@ Please find attached the file menu.json. Use it to complete the following points
 *   Make the code the most adaptable possible.
 *   Use a Git repository to save the test and share it
 
-## Screenshots
+## Screenshots of Menu Builder
 
 <!-- ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) -->
 
-[Menu Builder: default view](img/menu-builder-1.png)
+![Menu Builder: default view](img/menu-builder-1.png)
 
-[Menu Builder: one sub menu open](img/menu-builder-1.png)
+![Menu Builder: one sub menu open](img/menu-builder-1.png)
 
-[Menu Builder: all sub menus open](img/menu-builder-1.png)
+![Menu Builder: all sub menus open](img/menu-builder-1.png)
